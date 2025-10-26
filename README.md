@@ -1,5 +1,7 @@
 # 🚀 99AI -- 一站式 AI 服务平台
 
+> 2025-10-26
+
 <div align="center">
 
 [![GitHub stars](https://img.shields.io/github/stars/vastxie/99AI?style=social)](https://github.com/vastxie/99AI/stargazers)
